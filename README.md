@@ -25,9 +25,7 @@ Smart Traffic Violation & Fine Management System is a Java-based web application
 - Render (Deployment)
 
 ### 👩‍💻 Developed By
-**Sidra Jamal Shaikh**  
-**Class:** SY B.Sc. IT  
-**Roll No.:** 18050
+**Shakil ahamad**  
 
 ---
 ⭐ If you find this project useful, feel free to explore the repository!
